@@ -1,16 +1,167 @@
+# 👋 Hey, I'm Naveen
 
+### Full Stack Developer • Laravel Specialist • Angular Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveenkannabiran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkannabiran@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=naveenprohack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=naveenprohack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=naveenprohack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Laravel+%7C+Angular+%7C+PHP+%7C+MySQL;Backend+Engineering+%26+System+Design;Always+Learning+Something+New" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=naveenprohack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+```javascript
+const naveen = {
+    role: "Full Stack Developer",
+    backend: ["PHP", "Laravel", "REST APIs"],
+    frontend: ["Angular", "JavaScript", "TypeScript"],
+    databases: ["MySQL", "Redis"],
+    tools: ["Git", "Docker", "Linux", "Postman"],
+    architecture: [
+        "System Design",
+        "Design Patterns",
+        "Microservices"
+    ],
+    currentFocus: "Building scalable backend systems"
+};
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,angular,ts,js,mysql,redis,docker,git,github,linux,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 FinFlow
+
+Enterprise-grade payment processing platform
+
+* Multi-gateway integration
+* Event-driven architecture
+* Queue management
+* Transaction reconciliation
+* Audit logging
+
+---
+
+### 🛍️ CommerceX
+
+Modern multi-vendor e-commerce platform
+
+* Vendor onboarding
+* Inventory management
+* Advanced analytics
+* Real-time notifications
+* Role-based permissions
+
+---
+
+### 📊 InsightBoard
+
+Business intelligence dashboard
+
+* Live KPI tracking
+* Data visualization
+* Report generation
+* Team collaboration
+* Export automation
+
+---
+
+### 🎯 TalentSync
+
+AI-powered recruitment management system
+
+* Applicant tracking
+* Interview scheduling
+* Resume parsing
+* Analytics dashboard
+* Workflow automation
+
+---
+
+### 🚚 FleetPulse
+
+Logistics & fleet monitoring platform
+
+* GPS tracking
+* Delivery management
+* Driver analytics
+* Route optimization
+* Real-time alerts
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+✔ Backend Architecture
+✔ REST API Design
+✔ Database Optimization
+✔ Queue Systems
+✔ Redis Caching
+✔ System Design
+✔ Design Patterns
+✔ Docker
+✔ CI/CD
+✔ Scalable Applications
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 🌍 Currently Exploring
+
+* Advanced Laravel Internals
+* Distributed Systems
+* Event Driven Architecture
+* Redis & Caching Strategies
+* System Design
+* Software Architecture
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/naveenkannabiran/)">LinkedIn</a> •
+<a href="[YOUR_PORTFOLIO](https://naveenpro.netlify.app/)">Portfolio</a> •
+<a href="mailto:naveenkannabiran@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Code for today. Design for tomorrow."</i>
+</p>
