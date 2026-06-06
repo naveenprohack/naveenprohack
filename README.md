@@ -166,13 +166,10 @@ Fleet & logistics monitoring solution.
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenprohack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenprohack&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenprohack&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenprohack&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
